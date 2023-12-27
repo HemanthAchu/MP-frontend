@@ -19,7 +19,7 @@ function Home() {
       </div>
       <div className="comtainer-fluid mt-5 mb-5 w-100 row">
         <div className='all-videos col-lg-9'>
-          <h2 style={{height:'70px'}}>All Uploaded Videos</h2>
+          <h2 style={{height:'70px'}}>All Uploaded Video</h2>
               <View UploadVideoResponse={UploadVideoResponse} setdropResponse={setdropResponse} />
        </div>
      <div className='category col-lg-3'>
